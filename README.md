@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/dmbf29/dmbf29/blob/master/profile.jpg" alt="Douglas profile photo" width=350px height=465px/>
+<img align="right" src="https://github.com/dmbf29/dmbf29/blob/master/profile.jpg" alt="Douglas profile photo" width=200px height=200px/>
 
 ### Hi, I'm Douglas 👋
 
